@@ -1,1 +1,1 @@
-# cc
+# solar_power
